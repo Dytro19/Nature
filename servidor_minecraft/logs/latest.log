@@ -161,3 +161,6 @@
 [21:59:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=56, y=13, z=16} class_2338{x=65, y=12, z=18}
 [21:59:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=56, y=13, z=16} class_2338{x=65, y=12, z=18}
 [21:59:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=56, y=13, z=16} class_2338{x=65, y=12, z=18}
+[22:06:45] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
+[22:06:45] [Server thread/INFO]: Dytro_9_MC left the game
+[22:13:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=242, y=84, z=-162} class_2338{x=280, y=89, z=-157}

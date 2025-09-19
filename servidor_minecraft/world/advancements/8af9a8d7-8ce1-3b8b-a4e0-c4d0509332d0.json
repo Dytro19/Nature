@@ -1878,7 +1878,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-09-10 21:49:45 +0000",
       "minecraft:nether_wastes": "2025-09-10 21:40:46 +0000",
-      "minecraft:soul_sand_valley": "2025-09-10 21:53:17 +0000"
+      "minecraft:soul_sand_valley": "2025-09-10 21:53:17 +0000",
+      "minecraft:warped_forest": "2025-09-19 22:12:08 +0000"
     },
     "done": false
   },
@@ -3340,6 +3341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-19 21:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-09-19 21:57:52 +0000"
@@ -3406,6 +3413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-19 21:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-19 21:57:52 +0000"
@@ -3451,6 +3464,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-09-19 21:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-09-19 21:58:47 +0000"
     },
     "done": true
   },
