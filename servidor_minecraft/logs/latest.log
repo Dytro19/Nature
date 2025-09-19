@@ -125,3 +125,11 @@
 [15:15:59] [Server thread/INFO]: Dytro_9_MC has reached the goal [Postmortal]
 [15:28:57] [Server thread/INFO]: Hierro[local] logged in with entity id 36030 at (1287.48, 62.0, -312.35)
 [15:28:57] [Server thread/INFO]: Hierro joined the game
+[15:44:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1431, y=111, z=-493} class_2338{x=1431, y=111, z=-494}
+[15:44:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1431, y=111, z=-493} class_2338{x=1431, y=111, z=-494}
+[15:50:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1450, y=111, z=-458} class_2338{x=1451, y=111, z=-459}
+[15:50:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1449, y=111, z=-458} class_2338{x=1450, y=110, z=-459}
+[15:50:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1449, y=111, z=-457} class_2338{x=1448, y=111, z=-458}
+[15:51:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1452, y=111, z=-481} class_2338{x=1452, y=111, z=-480}
+[15:51:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1452, y=111, z=-481} class_2338{x=1452, y=111, z=-480}
+[15:51:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1450, y=111, z=-478} class_2338{x=1449, y=110, z=-478}
