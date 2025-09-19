@@ -3183,5 +3183,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2025-09-19 20:27:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
