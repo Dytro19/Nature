@@ -1,0 +1,162 @@
+{
+  "placements": [
+    {
+      "id": "96f92fce-5d95-43e6-93e2-0742ea7dd9f9",
+      "file_name": "C:\\Users\\alvag\\AppData\\Roaming\\ModrinthApp\\profiles\\1.21.8\\schematics\\Wood Farm.litematic",
+      "display_name": "Unnamed",
+      "hash": "a58970a1-3d19-3028-bd95-359a5e9bbf13",
+      "origin": {
+        "position": [
+          1206,
+          71,
+          -350
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "CLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "6a2210ce-19d1-366d-98b4-08f5f461c6ab",
+        "name": "Dytro_9_MC"
+      },
+      "litematicVersion": 6,
+      "dataVersion": 3337
+    },
+    {
+      "id": "18999762-98a7-4aef-9bf3-e65bd1fd5116",
+      "file_name": "C:\\Users\\chans\\AppData\\Roaming\\.minecraft\\schematics\\Shulkercraft Storage System-from-abfielder.litematic",
+      "display_name": "Shulkercraft Storage System",
+      "hash": "829f703a-46d3-39e0-a884-00b2009a3335",
+      "origin": {
+        "position": [
+          1336,
+          73,
+          -551
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "CLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "8af9a8d7-8ce1-3b8b-a4e0-c4d0509332d0",
+        "name": "Chupito2003"
+      },
+      "lastModifiedBy": {
+        "uuid": "e3150ca0-8fa8-3659-b19c-d87444aac424",
+        "name": "Fraylu"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 4189
+    },
+    {
+      "id": "b9dc0bbf-42a1-4a99-beba-5db7b5332e71",
+      "file_name": "C:\\Users\\alvag\\AppData\\Roaming\\ModrinthApp\\profiles\\1.21.8\\schematics\\StoneBridge-from-abfielder.litematic",
+      "display_name": "Unnamed",
+      "hash": "7cc0d766-eb55-34e8-92e3-246eee350db3",
+      "origin": {
+        "position": [
+          1329,
+          59,
+          -496
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "COUNTERCLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "6a2210ce-19d1-366d-98b4-08f5f461c6ab",
+        "name": "Dytro_9_MC"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 4435
+    },
+    {
+      "id": "e7d3ee97-3dba-4af6-bfe2-de74cc47286c",
+      "file_name": "C:\\Users\\chans\\AppData\\Roaming\\.minecraft\\schematics\\COMPLETE Massive Open Survival Mega Base-from-abfielder.litematic",
+      "display_name": "Unnamed",
+      "hash": "628ff6ef-f4be-350a-bc57-9264b72ea510",
+      "origin": {
+        "position": [
+          1316,
+          101,
+          -470
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "CLOCKWISE_180",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "8af9a8d7-8ce1-3b8b-a4e0-c4d0509332d0",
+        "name": "Chupito2003"
+      },
+      "litematicVersion": 6,
+      "dataVersion": 3218
+    },
+    {
+      "id": "7747bbea-15be-4004-8b6f-1b5875aca989",
+      "file_name": "C:\\Users\\alvag\\AppData\\Roaming\\ModrinthApp\\profiles\\1.21.8\\schematics\\Iron farm 3-4kh-from-abfielder.litematic",
+      "display_name": "Unnamed",
+      "hash": "d5359434-b17f-39b7-bab6-b611450547dd",
+      "origin": {
+        "position": [
+          1294,
+          62,
+          -313
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "5345a7c9-0d51-36dc-9f58-5450e1cbd153",
+        "name": "Dytro_9"
+      },
+      "litematicVersion": 6,
+      "dataVersion": 3218
+    },
+    {
+      "id": "10656d58-a3a0-4ca6-be7a-2b83519db6c5",
+      "file_name": "C:\\Users\\alvag\\AppData\\Roaming\\ModrinthApp\\profiles\\1.21.8\\schematics\\Slime_farm-from-abfielder.litematic",
+      "display_name": "Unnamed",
+      "hash": "24b91b48-fc68-3392-9ed0-9b04f7058e01",
+      "origin": {
+        "position": [
+          -1293,
+          63,
+          -1825
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "6a2210ce-19d1-366d-98b4-08f5f461c6ab",
+        "name": "Dytro_9_MC"
+      },
+      "litematicVersion": 6,
+      "dataVersion": 3578
+    },
+    {
+      "id": "7d7bc093-8d7c-411d-8a18-a56150944a4e",
+      "file_name": "C:\\Users\\chans\\AppData\\Roaming\\.minecraft\\schematics\\base_with_storage_b6bd6a-from-abfielder.litematic",
+      "display_name": "Unnamed",
+      "hash": "cac53bae-1bb0-30e5-ab03-330f2a3d4bd3",
+      "origin": {
+        "position": [
+          1120,
+          96,
+          -457
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "8af9a8d7-8ce1-3b8b-a4e0-c4d0509332d0",
+        "name": "Chupito2003"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 3955
+    }
+  ]
+}
