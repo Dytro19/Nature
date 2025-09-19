@@ -112,3 +112,6 @@
 [18:43:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1229, y=91, z=-451} class_2338{x=1255, y=92, z=-434}
 [18:44:57] [Server thread/INFO]: Hierro[local] logged in with entity id 2349 at (1287.48, 62.0, -312.35)
 [18:44:57] [Server thread/INFO]: Hierro joined the game
+[19:33:49] [Server thread/INFO]: Disconnecting Metzia_pretty077 (/127.189.208.32:58543): You are not white-listed on this server!
+[19:33:49] [Server thread/INFO]: Metzia_pretty077 (/127.189.208.32:58543) lost connection: You are not white-listed on this server!
+[19:33:49] [Server thread/WARN]: handleDisconnection() called twice
