@@ -1,5 +1,5 @@
-[18:37:34] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[18:37:35] [main/INFO]: Loading 63 mods:
+[17:53:43] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[17:53:44] [main/INFO]: Loading 63 mods:
 	- carpet 1.4.177+v250630
 	- essential-addons 2.1.0+1.21.8
 	   |-- arcade-commands 0.6.1-beta.19
@@ -71,96 +71,47 @@
 	- minecraft 1.21.8
 	- syncmatica 0.3.15
 	   \-- fabric-permissions-api-v0 0.4.1
-[18:37:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Nature/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:37:36] [main/INFO]: Compatibility level set to JAVA_17
-[18:37:36] [main/INFO]: Compatibility level set to JAVA_21
-[18:37:37] [main/WARN]: Error loading class: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers (java.lang.ClassNotFoundException: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers)
-[18:37:37] [main/WARN]: @Mixin target eu.pb4.polymer.common.impl.entity.InternalEntityHelpers was not found arcade-extensions.mixins.json:compat.InternalEntityHelpersMixin from mod arcade-extensions
-[18:37:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:37:47] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:37:50] [main/INFO]: Loaded 1407 recipes
-[18:37:50] [main/INFO]: Loaded 1520 advancements
-[18:37:50] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.054 ms
-[18:37:50] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[18:37:50] [Server thread/INFO]: Loading properties
-[18:37:50] [Server thread/INFO]: Default game type: SURVIVAL
-[18:37:50] [Server thread/INFO]: Generating keypair
-[18:37:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:37:50] [Server thread/INFO]: Using epoll channel type
-[18:37:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:37:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:37:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:37:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:37:50] [Server thread/INFO]: Preparing level "world"
-[18:37:50] [Server thread/INFO]: [CM] Loaded 2 settings from carpet.conf
-[18:37:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:37:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:37:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:37:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:37:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:37:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:37:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:37:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:37:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:37:55] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[18:37:55] [Server thread/INFO]: Time elapsed: 4094 ms
-[18:37:55] [Server thread/INFO]: Done (4.877s)! For help, type "help"
-[18:38:11] [Server thread/INFO]: Dytro_9_MC[/127.124.178.247:59585] logged in with entity id 11 at (1193.5581265084836, 110.0, -561.2639475246946)
-[18:38:11] [Server thread/INFO]: Dytro_9_MC joined the game
-[18:38:12] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[18:43:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1232, y=90, z=-458} class_2338{x=1229, y=92, z=-451}
-[18:43:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1229, y=91, z=-451} class_2338{x=1255, y=92, z=-434}
-[18:44:57] [Server thread/INFO]: Hierro[local] logged in with entity id 2349 at (1287.48, 62.0, -312.35)
-[18:44:57] [Server thread/INFO]: Hierro joined the game
-[19:33:49] [Server thread/INFO]: Disconnecting Metzia_pretty077 (/127.189.208.32:58543): You are not white-listed on this server!
-[19:33:49] [Server thread/INFO]: Metzia_pretty077 (/127.189.208.32:58543) lost connection: You are not white-listed on this server!
-[19:33:49] [Server thread/WARN]: handleDisconnection() called twice
-[20:03:59] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
-[20:03:59] [Server thread/INFO]: Dytro_9_MC left the game
-[20:12:48] [Server thread/INFO]: Chupito2003[/127.220.109.49:50139] logged in with entity id 19367 at (1294.2745031620912, 103.0, -499.14848069624)
-[20:12:48] [Server thread/INFO]: Chupito2003 joined the game
-[20:12:48] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[20:27:02] [Server thread/INFO]: Dytro_9_MC[/127.124.178.247:54267] logged in with entity id 23945 at (1204.5751877776215, 74.0, -381.12021935220264)
-[20:27:02] [Server thread/INFO]: Dytro_9_MC joined the game
-[20:27:03] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[20:27:56] [Server thread/INFO]: Dytro_9_MC has made the advancement [Tactical Fishing]
-[20:51:59] [Server thread/INFO]: Hierro lost connection: Killed
-[20:51:59] [Server thread/INFO]: Hierro left the game
-[20:52:47] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
-[20:52:47] [Server thread/INFO]: Dytro_9_MC left the game
-[20:53:00] [Server thread/INFO]: Dytro_9_MC[/127.124.178.247:55107] logged in with entity id 33154 at (1292.5114456647204, 80.5, -288.4376903582353)
-[20:53:00] [Server thread/INFO]: Dytro_9_MC joined the game
-[20:53:00] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[21:05:15] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
-[21:05:15] [Server thread/INFO]: Dytro_9_MC left the game
-[21:06:09] [Server thread/INFO]: Dytro_9_MC[/127.124.178.247:58709] logged in with entity id 38595 at (1287.815724915773, 79.0, -288.98750001192093)
-[21:06:09] [Server thread/INFO]: Dytro_9_MC joined the game
-[21:06:09] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[21:06:28] [Server thread/INFO]: Chupito2003 was slain by Vex
-[21:29:55] [Server thread/INFO]: Dytro_9_MC has made the advancement [A Terrible Fortress]
-[21:31:38] [Server thread/INFO]: Chupito2003 has made the advancement [A Terrible Fortress]
-[21:33:09] [Server thread/INFO]: Dytro_9_MC has made the advancement [Into Fire]
-[21:37:42] [Server thread/INFO]: Chupito2003 has made the advancement [Into Fire]
-[21:40:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=71, z=270} class_2338{x=232, y=71, z=270}
-[21:40:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=71, z=270} class_2338{x=232, y=71, z=270}
-[21:40:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=71, z=270} class_2338{x=232, y=71, z=270}
-[21:40:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=71, z=270} class_2338{x=232, y=71, z=270}
-[21:40:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=71, z=270} class_2338{x=232, y=71, z=270}
-[21:40:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=71, z=270} class_2338{x=232, y=71, z=270}
-[21:40:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=71, z=270} class_2338{x=232, y=71, z=270}
-[21:40:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=71, z=270} class_2338{x=232, y=71, z=270}
-[21:49:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=94, y=68, z=-72} class_2338{x=93, y=62, z=-69}
-[21:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=94, y=68, z=-72} class_2338{x=95, y=61, z=-70}
-[21:50:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=97, y=51, z=-76} class_2338{x=97, y=50, z=-77}
-[21:51:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=97, y=51, z=-76} class_2338{x=97, y=45, z=-82}
-[21:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-4, y=14, z=-84} class_2338{x=-8, y=12, z=-84}
-[21:53:32] [Server thread/INFO]: Dytro_9_MC has made the advancement [Hidden in the Depths]
-[21:54:55] [Server thread/INFO]: Chupito2003 has completed the challenge [Return to Sender]
-[21:58:47] [Server thread/INFO]: Chupito2003 has made the advancement [Hidden in the Depths]
-[21:59:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=56, y=13, z=16} class_2338{x=65, y=12, z=18}
-[21:59:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=56, y=13, z=16} class_2338{x=65, y=12, z=18}
-[21:59:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=56, y=13, z=16} class_2338{x=65, y=12, z=18}
-[21:59:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=56, y=13, z=16} class_2338{x=65, y=12, z=18}
-[22:06:45] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
-[22:06:45] [Server thread/INFO]: Dytro_9_MC left the game
-[22:13:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=242, y=84, z=-162} class_2338{x=280, y=89, z=-157}
+[17:53:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Nature/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:53:45] [main/INFO]: Compatibility level set to JAVA_17
+[17:53:45] [main/INFO]: Compatibility level set to JAVA_21
+[17:53:46] [main/WARN]: Error loading class: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers (java.lang.ClassNotFoundException: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers)
+[17:53:46] [main/WARN]: @Mixin target eu.pb4.polymer.common.impl.entity.InternalEntityHelpers was not found arcade-extensions.mixins.json:compat.InternalEntityHelpersMixin from mod arcade-extensions
+[17:53:47] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17:53:57] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:54:00] [main/INFO]: Loaded 1407 recipes
+[17:54:00] [main/INFO]: Loaded 1520 advancements
+[17:54:00] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 5.306 ms
+[17:54:00] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[17:54:00] [Server thread/INFO]: Loading properties
+[17:54:00] [Server thread/INFO]: Default game type: SURVIVAL
+[17:54:00] [Server thread/INFO]: Generating keypair
+[17:54:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:54:00] [Server thread/INFO]: Using epoll channel type
+[17:54:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:54:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:54:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:54:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:54:00] [Server thread/INFO]: Preparing level "world"
+[17:54:00] [Server thread/INFO]: [CM] Loaded 2 settings from carpet.conf
+[17:54:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:54:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:54:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:54:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:54:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:54:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:54:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:54:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:54:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:54:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:54:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:54:05] [Server thread/INFO]: Time elapsed: 4637 ms
+[17:54:05] [Server thread/INFO]: Done (5.164s)! For help, type "help"
+[17:55:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:55:23] [Server thread/INFO]: Dytro_9_MC[/127.124.178.247:33037] logged in with entity id 11 at (73.55132054345756, 19.0, -83.30000001192093)
+[17:55:23] [Server thread/INFO]: Dytro_9_MC joined the game
+[17:55:24] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[17:55:39] [Server thread/INFO]: Chupito2003[/127.220.109.49:46411] logged in with entity id 303 at (1286.300000011921, 62.0, -312.4202742532187)
+[17:55:39] [Server thread/INFO]: Chupito2003 joined the game
+[17:55:39] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[17:56:50] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
+[17:56:50] [Server thread/INFO]: Dytro_9_MC left the game
